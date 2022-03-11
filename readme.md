@@ -1,3 +1,3 @@
 Olá  Pessoal
 
-Soverte caseiro Magnum.
+Sorvete caseiro Magnum;
